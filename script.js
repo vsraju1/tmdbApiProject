@@ -1,5 +1,5 @@
 const api_url = "https://api.themoviedb.org/3";
-const api_key = "1d39e97e73b47aa3146091ede9861bdc";
+const api_key = "";
 const imgPath = "https://image.tmdb.org/t/p/original";
 
 const apiFetch = {
